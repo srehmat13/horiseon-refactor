@@ -8,7 +8,7 @@ A website that offers solutions for search engine optimization and marketing str
 * CSS
 
 ## Website
-https://srehmat13.github.io/horiseon-refactor/
+https://github.com/srehmat13/horiseon-refactor.git
 
 ## Contribution
 Made with ❤️ by Shabia Harrington
